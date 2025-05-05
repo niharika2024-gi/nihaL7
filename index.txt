@@ -1,2 +1,2 @@
-Hello from nihaL7!
+This is the update from the update-text branch.
 
