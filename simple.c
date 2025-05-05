@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Simple Calculator Base Program\n");
+    printf("Hello, Git!\n");
     return 0;
 }
+
